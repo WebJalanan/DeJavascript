@@ -58,7 +58,7 @@ a{color:#63c0f5;text-shadow:0 0 5px rgba(104,182,255,.5)}
 .hljs-addition,.hljs-bullet,.hljs-string,.hljs-symbol{color:#b9ca4a}
 .hljs-section,.hljs-title{color:#7aa6da}
 .hljs-keyword,.hljs-selector-tag{color:#c397d8}
-.hljs{display:block;overflow-x:auto;background:#666666;color:#eaeaea;padding:.7em;}
+.hljs{display:block;overflow-x:auto;background:#1d1f21;color:#eaeaea;padding:.7em;}
 .hljs-emphasis{font-style:italic}
 .hljs-strong{font-weight:700}
 @keyframes hover-color{from{border-color:#5a5a5a}to{border-color:#3b78e7}}
@@ -90,7 +90,7 @@ code,textarea{font-family:'Roboto Mono',monospace}
 .config{font-size:16px;color:#595656}
 .config input{margin-right:4px;vertical-align:middle}
 .config input:checked+label{color:#3b78e7;}
-.config label{display:inline-block;margin:0 auto}
+.config label{display:inline-block;margin:10px auto}
 .center{text-align:center;margin:20px 0}
 .wj-btn:active,.wj-btn:focus,.wj-btn:hover{outline:0 none}
 .wj-btn:active{background:rgba(0,0,0,.8);color:#3b78e7}
